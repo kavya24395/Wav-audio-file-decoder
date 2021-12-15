@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleWavDecoder</string>
+    <string name="wav_file1">File 1</string>
+    <string name="select_the_file_to_decode">Select the WAV file to decode</string>
+    <string name="wav_file2">File 2</string>
+    <string name="wav_file3">File 3</string>
+    <string name="decoding_message">Decoding in progress</string>
+    <string name="file_decode_success">File decoded successfully</string>
+    <string name="file_decode_fail">File decode failed</string>
+    <string name="preview">Preview</string>
+    <string name="heading_decoded_message">Displaying first 1000 bytes as unsigned integers</string>
+</resources>
